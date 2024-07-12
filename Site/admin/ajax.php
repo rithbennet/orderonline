@@ -87,3 +87,4 @@ if($action == "confirm_order"){
 }
 ?>
 
+<?php
